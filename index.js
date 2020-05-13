@@ -19,5 +19,7 @@ function keepGoing(array, changeValue, skipValue){
       continue
     }
   }
-return array 
+return array
 }
+
+function findBy(array, findFn)
