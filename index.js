@@ -23,5 +23,7 @@ return array
 }
 
 function findBy(array, findFn){
-  for (let i=-; i<array.length; i++)
+  for (let i=-; i<array.length; i++){
+    
+  }
 }
