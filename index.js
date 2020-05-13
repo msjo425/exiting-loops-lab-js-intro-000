@@ -16,8 +16,8 @@ function keepGoing(array, changeValue, skipValue){
       array[i] = changeValue
     }
     else {
-      continue 
+      continue
     }
   }
-
+return array 
 }
