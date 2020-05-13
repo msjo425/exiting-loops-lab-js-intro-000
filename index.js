@@ -24,6 +24,6 @@ return array
 
 function findBy(array, findFn){
   for (let i=-; i<array.length; i++){
-    if 
+    if ()
   }
 }
