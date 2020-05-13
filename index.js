@@ -1,1 +1,1 @@
-function breakOut (array,changeValue,)
+function breakOut (array,changeValue,stopValue)
